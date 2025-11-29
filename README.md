@@ -2,8 +2,8 @@
 花云官网订阅（请勿相信其他牟利广告）
 
 # flowercloud 花云机场官网地址  
-## 最新官方地址：**[HuaCloud.dev](https://api-flowercloud.com/aff.php?aff=14928)**  
-## 备用官方地址：**[FlowerCloud.com](https://api-flowercloud.com/aff.php?aff=14928)**
+## 最新官方地址：**[HuaCloud.dev](https://api-flowercloud.com/aff.php?aff=14928)**  （购买后才能注册登录）
+## 备用官方地址：**[FlowerCloud.com](https://api-flowercloud.com/aff.php?aff=14928)**  （购买后才能注册登录）
 
 # flowercloud 花云简介  
 FlowerCloud（花云）机场集成国内多家运营商网络，基于 BGP 智能分配线路，结合多年线路优化经验，为用户提供稳定、低延迟的加速服务。  
