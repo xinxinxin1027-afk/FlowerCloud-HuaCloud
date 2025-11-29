@@ -1,11 +1,11 @@
-# FlowerCloud花云机场（最新2025年12月）
+# FlowerCloud 花云机场（最新2025年12月）
 花云官网订阅（请勿相信其他牟利广告）
 
-# flowercloud花云机场官网地址  
+# flowercloud 花云机场官网地址  
 ## 最新官方地址：**[HuaCloud.dev](https://api-flowercloud.com/aff.php?aff=14928)**  
 ## 备用官方地址：**[FlowerCloud.com](https://api-flowercloud.com/aff.php?aff=14928)**
 
-# flowercloud 简介  
+# flowercloud 花云简介  
 FlowerCloud（花云）机场集成国内多家运营商网络，基于 BGP 智能分配线路，结合多年线路优化经验，为用户提供稳定、低延迟的加速服务。  
 海外线路部署在全球优质数据中心，采用运营商直签专线或高质量回程线路，实现跨区域低延迟、大带宽的数据传输。  
 节点覆盖香港、日本、新加坡、台湾、美国等地区，广泛满足亚洲、欧洲及美洲用户的加速需求。
